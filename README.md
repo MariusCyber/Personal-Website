@@ -1,2 +1,1 @@
-[﻿personal-website](https://mariuscyber.github.io/personal-website/)
-
+[﻿personal-website](https://mariuscyber.github.io/Personal-Website/
